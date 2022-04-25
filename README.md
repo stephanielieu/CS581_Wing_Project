@@ -44,7 +44,23 @@ The output of our function is a simulation of the wing movement from Matlab and 
 </table>
 
 # Link Names
+
+
+
+<table>
+<tr>
+<th> Image </th>
+<th> Labels </th>
+</tr>
+<tr>
+<td>
+
+
 ![link names](labeled_simulation.jpg)
+
+</td>
+<td>
+
 
 | Link Number | Link Name |
 | --- | ----------- |
@@ -54,6 +70,15 @@ The output of our function is a simulation of the wing movement from Matlab and 
 | 4 | Bottom Scissor Joint |
 | 5 | Long Wing |
 | 6 | Wing Support |
+
+
+</td>
+</tr>
+</table>
+
+
+
+
 
 
 # Example runs
