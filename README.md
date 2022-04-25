@@ -1,6 +1,6 @@
 # CS581 Wing Project Overview
 
-For CS581 (Computational Fabrication) with Professor Emily Whiting, we were given the freedom to chose whatever we want to create for our final project. Our team chose to create a set of functional wings that can be attached to a figurine. Our main goal was to create a pair of wings that can open and close. This leads to our problem statement of "What joint is best to use to emmulate wings flapping?" We determined that annular joints was best for our goal. For our fabrication aspect of our project, we used Onshape to design our wings and feathers. We used the Makerbot printer to print the joints and a laser cutter to cut out the feathers. We manually had to glue together the feathers onto the joints. 
+For CS581 (Computational Fabrication) with Professor Emily Whiting, we were given the freedom to chose whatever we want to create for our final project. Our team chose to create a set of functional wings that can be attached to a figurine. Our main goal was to create a pair of wings that can open and close. This leads to our problem statement of "What joint is best to use to emulate wings flapping?" We determined that annular joints was best for our goal. For our fabrication aspect of our project, we used Onshape to design our wings and feathers. We used the Makerbot printer to print the joints and a laser cutter to cut out the feathers. We manually had to glue together the feathers onto the joints. 
 
 # Computational Aspect
 
@@ -66,7 +66,7 @@ The output of our function is a simulation of the wing movement from Matlab and 
 | --- | ----------- |
 | 1 | Backpack Link |
 | 2 | Driver Link |
-| 3 | top Scissor Joint |
+| 3 | Top Scissor Joint |
 | 4 | Bottom Scissor Joint |
 | 5 | Long Wing |
 | 6 | Wing Support |
