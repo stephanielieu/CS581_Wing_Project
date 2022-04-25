@@ -43,6 +43,19 @@ The output of our function is a simulation of the wing movement from Matlab and 
 </tr>
 </table>
 
+# Link Names
+![link names](labeled_simulation.jpg)
+
+| Link Number | Link Name |
+| --- | ----------- |
+| 1 | Backpack Link |
+| 2 | Driver Link |
+| 3 | top Scissor Joint |
+| 4 | Bottom Scissor Joint |
+| 5 | Long Wing |
+| 6 | Wing Support |
+
+
 # Example runs
 If the user wants to make the wing half the size of the original, they would run the function with these parameters: 
 ```
