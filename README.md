@@ -17,13 +17,13 @@ final(scene, scale)
 
 Scene should always be 10, as there is only one scene. The scale allows the user to customize the size of the wing, whether they want to scale up or down from the original size.
 
-The output of our function is a simulation of the wing movement from Matlab and a text file called `dimensions.txt` that contains the original measurements with the scaled measurements and the respective joints. 
+The output of our function is a simulation of the wing movement from Matlab and a text file called `dimensions.txt` that contains the original measurements with the scaled measurements and the respective joints. The joint measurements are measured from the left side of the linkage. In the example below, the scale is 0.5.
 
 
 <table>
 <tr>
 <th> Screencap of the simulation of the wing movement </th>
-<th> Example of the text file containing the link and joint measurements </th>
+<th> Example of the text file containing the link and joint measurements</th>
 </tr>
 <tr>
 <td>
