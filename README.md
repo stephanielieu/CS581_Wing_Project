@@ -23,7 +23,7 @@ The output of our function is a simulation of the wing movement from Matlab and 
 <table>
 <tr>
 <th> Screencap of the simulation of the wing movement </th>
-<th> Example of the text file containing the measurements </th>
+<th> Example of the text file containing the link and joint measurements </th>
 </tr>
 <tr>
 <td>
@@ -36,7 +36,7 @@ The output of our function is a simulation of the wing movement from Matlab and 
 <td>
 
 
-![dimensions text file](dimensions.png)
+![dimensions text file](dimensions1.png)
 
 
 </td>
@@ -56,7 +56,7 @@ The output of our function is a simulation of the wing movement from Matlab and 
 <td>
 
 
-![link names](labeled_simulation.jpg)
+![link names](jl_label.jpg)
 
 </td>
 <td>
@@ -70,6 +70,9 @@ The output of our function is a simulation of the wing movement from Matlab and 
 | 4 | Bottom Scissor Joint |
 | 5 | Long Wing |
 | 6 | Wing Support |
+| Joint Number | Joint |
+| J1 | Top Scissor Joint & Bottom Scissor Joint |
+| J2 | Long Wing & Wing Support |
 
 
 </td>
